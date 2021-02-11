@@ -1,0 +1,4 @@
+baseURL = "https://quotes-nubelixcu.vercel.app"
+languageCode = "en-us"
+title = "Quotes Love USA "
+theme = "hugo-theme-minos"
